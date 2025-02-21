@@ -1,0 +1,13 @@
+h1 {
+    color: red;
+    font-size: 40px;
+}
+
+#line3 {
+    font-family : Arial;
+    color: blue;
+}
+
+.quote {
+    font-style: Italic;
+}
